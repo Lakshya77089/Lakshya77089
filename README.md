@@ -19,7 +19,7 @@
 
   <tr>
     <td colspan="2" align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Mooli&weight=700&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;AI+Engineer;Open+Source+Contributor;Building+Scalable+Products;IIIT+Kota+CSE'27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Mooli&weight=700&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Open+Source+Contributor;Building+Scalable+Products;IIIT+Kota+CSE'27" />
     </td>
   </tr>
 
