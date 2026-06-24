@@ -126,10 +126,6 @@
 <img src="https://streak-stats.demolab.com?user=Lakshya77089&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Lakshya77089&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
 ---
 
 ## 💭 Quote I Live By
