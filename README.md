@@ -135,19 +135,6 @@ Contributions across repositories:
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lakshya77089&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya77089&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Lakshya77089&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 💭 Quote I Live By
 
