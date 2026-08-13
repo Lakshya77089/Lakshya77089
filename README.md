@@ -124,17 +124,12 @@ Contributions across repositories:
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 5 | 15 | 10 |
 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 0 | 5 | 5 |
 | [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | 5 | 7 | 4 |
-| [gyanama/gyanama-website](https://github.com/gyanama/gyanama-website) | 0 | 2 | 2 |
 | [supabase/supabase](https://github.com/supabase/supabase) | 2 | 5 | 1 |
 | [bastienwirtz/homer](https://github.com/bastienwirtz/homer) | 0 | 3 | 1 |
-| [realkeshav08/PrivatEdge_old](https://github.com/realkeshav08/PrivatEdge_old) | 0 | 1 | 1 |
 | [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) | 3 | 3 | 0 |
 | [PostHog/posthog](https://github.com/PostHog/posthog) | 0 | 3 | 0 |
 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 0 | 3 | 0 |
 | [kubescape/kubevuln](https://github.com/kubescape/kubevuln) | 0 | 2 | 0 |
-| [langfuse/langfuse](https://github.com/langfuse/langfuse) | 0 | 1 | 0 |
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 0 | 1 | 0 |
-| [json-schema-org/JSON-Schema-Test-Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite) | 0 | 1 | 0 |
 
 <!-- OSS-STATS:END -->
 
