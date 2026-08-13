@@ -10,11 +10,10 @@
       <h1>Hi 👋, I'm Lakshya Sharma</h1>
       <h3>Building products for the next generation of the internet</h3>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=Lakshya77089&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-  </td>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=Lakshya77089&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+      </p>
+    </td>
   </tr>
 
   <tr>
@@ -111,6 +110,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+
+---
+
+<!-- OSS-STATS:START -->
+
+Updating...
+
+<!-- OSS-STATS:END -->
 
 ---
 
