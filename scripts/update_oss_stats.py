@@ -150,6 +150,18 @@ def build_stats():
 
 
 def generate_markdown(stats):
+    EXCLUDED_REPOS = {
+    "realkeshav08/PrivatEdge_old",
+    "langfuse/langfuse",
+    "BerriAI/litellm",
+    "json-schema-org/JSON-Schema-Test-Suite",
+    "gyanama/gyanama-website",
+    }
+    stats = {
+        repo: data
+        for repo, data in stats.items()
+        if repo not in EXCLUDED_REPOS
+    }
     if not stats:
         return (
             "No public open-source contributions found yet."
