@@ -35,19 +35,6 @@
 - 🎯 Mission: Empower people through technology and innovation
 - ⚡ Fun Fact: Most of my projects start as side ideas and grow into full platforms
 
-### 🌍 Open Source
-
-I actively contribute to open-source projects beyond my personal repositories, including:
-
-- 🔥 **Ponytail** — 15 pull requests, 10 merged
-- ⚡ **Headroom** — 5 pull requests, 5 merged
-- 🚀 **Project HAMi** — 7 pull requests, 4 merged
-- 🛠️ **Supabase** — 5 pull requests, 1 merged
-- 🔧 **Homer** — 3 pull requests, 1 merged
-- 📈 **n8n** — 3 pull requests
-- 🧪 **PostHog** — 3 pull requests
-
-I contribute through pull requests, bug reports, fixes, and collaboration with maintainers.
 
 ### 🌐 Connect With Me
 
