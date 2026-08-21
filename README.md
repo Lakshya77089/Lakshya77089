@@ -123,8 +123,8 @@ Contributions across repositories:
 | Repository | 🐛 Issues | 🔀 PRs | ✅ Merged PRs |
 |:---|---:|---:|---:|
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 5 | 15 | 10 |
+| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | 5 | 7 | 5 |
 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 0 | 5 | 5 |
-| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | 5 | 7 | 4 |
 | [supabase/supabase](https://github.com/supabase/supabase) | 2 | 5 | 1 |
 | [bastienwirtz/homer](https://github.com/bastienwirtz/homer) | 0 | 3 | 1 |
 | [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) | 3 | 3 | 0 |
